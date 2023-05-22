@@ -1,3 +1,3 @@
 # Byte-Bank-Project
 
-## Project simulating a database application with database connection
+## Project simulating a transactions application with database connection
